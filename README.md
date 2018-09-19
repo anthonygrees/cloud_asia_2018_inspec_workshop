@@ -1,5 +1,4 @@
 ![Cloud Asia](/images/1cloudasia.png)
-# cloud_asia_2018_inspec_workshop
 
 ## Description
 DevOps Live will host a 40 minute - exclusive - worshop targeted to DevOps Professionals. Join this workshop to learn about Audit and Compliance as Code with Chef InSpec from Chef's, Solutions Architect - Anthony Rees!
