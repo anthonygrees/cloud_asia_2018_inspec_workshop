@@ -28,4 +28,25 @@ The Windows workshop takes you through running InSpec commands against Microsoft
 ### Part 2 - Linux Workshop
 You can find all the workshop details for the linux section <a href="https://github.com/anthonygrees/compliance-workshop/blob/master/linux_inspec.md">here</a>
 
+### More Information !
+Have a thirst to learn more with hands on labs ?
+- Get hands on with Chef, InSpec and Habitat! <a href="https://learn.chef.io/">Learn Chef Rally</a>
+- Need more details on InSpec?  <a href="https://www.inspec.io/">InSpec - Compliance as Code</a>
+
 ![Session Details](/images/2sessiondetails.png)
+
+## License and Author
+
+* Author:: Anthony Rees <anthony@chef.io>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
