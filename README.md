@@ -1,0 +1,1 @@
+# cloud_asia_2018_inspec_workshop
