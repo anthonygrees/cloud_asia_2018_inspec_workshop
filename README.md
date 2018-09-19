@@ -17,7 +17,8 @@ To complete this workshop you will need:
 - remote desktop capability
 - a lab workstation
 
-To get your ```lab workstation```, go to the following google doc and write your name against a lab id.
+To get your ```lab workstation```, go to the following google doc and write your ```name`` and ```email``` against a lab id.
+<a href="https://docs.google.com/spreadsheets/d/1wygHCMvF1NMH5VVKXnd3cikKUFXusOyNs7m8VLuyJWk/edit?usp=sharing">Click here ::Student Lab Spreadsheet -Cloud Expo 2018</a>
 
 ### Slides
 The slides used in the workshop are available here for download in PDF format.
