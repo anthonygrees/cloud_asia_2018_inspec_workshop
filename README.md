@@ -6,3 +6,4 @@ DevOps Live will host 40 minute - exclusive - worshops targeted to DevOps Profes
 
 ## Session Description
 This DevSecOps workshop introduces you to the power of InSpec for Audit and Compliance using Test Driven Development. Learn through hands on labs how to detect and correct with InSpec to ensure you have secure and compliant infrastructure. The InSpec Jumpstart workshop starts from ground zero. You will learn the basics of InSpec, what are controls and profiles, and how its invoked on local and remote target nodes. You will see how to run Chef to remediate noncompliance issues that are identified and how to automate that end-2-end process with Chef Automate.
+![Session Details](/images/2sessiondetails.png)
