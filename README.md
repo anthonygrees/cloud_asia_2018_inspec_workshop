@@ -23,6 +23,8 @@ To get your ```lab workstation```, go to the following google doc and write your
 ## Slides
 The slides used in the workshop are available here for download in PDF format.
 
+<a href="/images/cloud_expo_inspec_workshop.pdf">Slides</a>
+
 ## Part 1 - Windows Workshop
 The Windows workshop takes you through running InSpec commands against Microsoft Windows <a href="https://github.com/anthonygrees/compliance-workshop/blob/master/windows_inspec.md">here</a>
 
