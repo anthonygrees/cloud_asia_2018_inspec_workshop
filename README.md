@@ -9,7 +9,7 @@ This DevSecOps workshop introduces you to the power of InSpec for Audit and Comp
 # Workshop Details
 Here you will find all the resources we used in the workshop, from the slides to the actual code we ran.
 
-## Get your Workstation
+## Step 1: Get your Workstation
 To complete this workshop you will need:
 - a laptop
 - internet connection
@@ -20,15 +20,15 @@ To get your ```lab workstation```, go to the following google doc and write your
 
 <a href="https://docs.google.com/spreadsheets/d/1wygHCMvF1NMH5VVKXnd3cikKUFXusOyNs7m8VLuyJWk/edit?usp=sharing">Click here ::Student Lab Spreadsheet -Cloud Expo 2018</a>
 
-## Slides
+## Step 2: Download the Slides
 The slides used in the workshop are available here for download in PDF format.
 
 <a href="/images/cloud_expo_inspec_workshop.pdf">Slides</a>
 
-## Part 1 - Windows Workshop
+## Step 3: Do the Windows Workshop
 The Windows workshop takes you through running InSpec commands against Microsoft Windows <a href="https://github.com/anthonygrees/compliance-workshop/blob/master/windows_inspec.md">here</a>
 
-## Part 2 - Linux Workshop
+## Step 5: Do the Linux Workshop
 You can find all the workshop details for the linux section <a href="https://github.com/anthonygrees/compliance-workshop/blob/master/linux_inspec.md">here</a>
 
 ## More Information !
