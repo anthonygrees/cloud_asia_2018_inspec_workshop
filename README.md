@@ -28,7 +28,7 @@ The slides used in the workshop are available here for download in PDF format.
 ## Step 3: Do the Windows Workshop
 The Windows workshop takes you through running InSpec commands against Microsoft Windows <a href="https://github.com/anthonygrees/compliance-workshop/blob/master/windows_inspec.md">here</a>
 
-## Step 5: Do the Linux Workshop
+## Step 4: Do the Linux Workshop
 You can find all the workshop details for the linux section <a href="https://github.com/anthonygrees/compliance-workshop/blob/master/linux_inspec.md">here</a>
 
 ## More Information !
